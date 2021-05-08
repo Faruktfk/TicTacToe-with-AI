@@ -1,1 +1,1 @@
-# TicTacToe in Java with AI (minimax algorithm)
+# TicTacToe in Java with AI (using minimax algorithm)
